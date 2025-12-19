@@ -44,6 +44,7 @@ ResultManagement/
 
 ## 👤 Author
 **Parth Deshmukh**  
-- GitHub: https://github.com/yourusername
+- GitHub: https://github.com/dev-parthdeshmukh  
+- LinkedIn: https://linkedin.com/in/deshmukh-parth
       
 
